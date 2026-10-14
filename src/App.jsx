@@ -10,12 +10,7 @@ export default function App() {
                 {data.map((item) => (
                     <Entry
                         key={item.id}
-                        image={item.img.src}
-                        alt={item.img.alt}
-                        country={item.country}
-                        title={item.title}
-                        dates={item.dates}
-                        text={item.text}
+                        {...item}
                     />
                 ))}
             </main>

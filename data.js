@@ -35,4 +35,16 @@ export default [
         dates: "01 Oct, 2021 - 18 Nov, 2021",
         text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
+    {
+        id: 4,
+        img: {
+            src: "https://media.cntraveller.com/photos/65aa7d7a7d48901df1fadbc4/1:1/w_3997,h_3997,c_limit/lake%20como-GettyImages-1134466359.jpeg",
+            alt: "Como-Lake"
+        },
+        title: "Como Lake",
+        country: "Italy",
+        googleMapsLink: "https://maps.app.goo.gl/ED1KizefvYrWu4pJ8",
+        dates: "08 Jan, 2022 - 22 Feb, 2022",
+        text: "Lake Como, in Northern Italy's Lombardy region, is an upscale resort area known for its dramatic scenery, set against the foothills of the Alps. The lake is shaped like an upside-down Y, with three slender branches that meet at the resort town of Bellagio. At the bottom of the southwest branch lies the city of Como, home to Renaissance architecture and a funicular that travels up to the mountain town of Brunate.."
+    },
 ]
