@@ -19,7 +19,7 @@ A small React app that displays a personal travel journal: a list of entries, ea
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/msn-del/traveling-journal
 cd traveling-journal
 npm install
 ```
